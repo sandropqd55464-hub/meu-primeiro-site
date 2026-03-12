@@ -1,2 +1,4 @@
 # meu-primeiro-site
-Meu primeiro site no GitHub
+
+Este é meu primeiro projeto no GiyHub.
+Estou aprendendo programação e GitHub.
